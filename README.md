@@ -7,4 +7,4 @@
 - Less, SCSS
 
 ## Contacts
-Telegram: @IgorJS_Dev
+Telegram: t.me/IgorJS_Dev
